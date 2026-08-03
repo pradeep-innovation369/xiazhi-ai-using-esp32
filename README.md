@@ -40,7 +40,7 @@ Special thanks to SKR Electronics Lab for developing the Xiaozhi AI Firmware Fla
 
 ## Hardware
 
-![Hardware](images/setup.jpg)
+![Hardware](hardware.jpg)
 
 ## Wiring Diagram
 
