@@ -7,7 +7,7 @@ This project demonstrates how to build an ESP32-based AI voice assistant capable
 
 
 The goal of this project is to provide an affordable, open, and easily reproducible AI assistant that hobbyists and students can build using commonly available ESP32 hardware. This repository documents the complete hardware setup, firmware flashing process, wiring, and future enhancements.
-
+jj
 ## Features
 
 - ✅ Real-time AI conversations
